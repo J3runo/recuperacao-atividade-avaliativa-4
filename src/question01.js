@@ -32,3 +32,4 @@ while (cont < 5) {
 console.log("Nome da pessoa mais velha: " + NMvelha + " - Idade: " + Mvelha);
 console.log("----------------------------------------------------")
 console.log("Nome da pessoa mais nova: " + NMnova + " - Idade: " + Mnova);
+ 

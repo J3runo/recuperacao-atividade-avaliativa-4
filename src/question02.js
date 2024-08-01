@@ -37,4 +37,4 @@ if (consoantes.length > 0) {
   console.log("NUMERO DE CONSOANTES "+contC)
 } else {
   console.log("NÂO TEM CONSOANTES ");
-}
+} 
