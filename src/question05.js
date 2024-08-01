@@ -60,3 +60,4 @@ if (POutros > 30) {
 if (PCopas && PEspadas && PPaus && POutros < 30) {
   console.log("O baralho parece não estar viciado.");
 }
+ 
